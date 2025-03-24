@@ -428,7 +428,7 @@ plugins:
     audios:
       - name: 不可思議のカルテ # audio name
         artist: 瀬戸麻沙美、東山奈央、種崎敦美、内田真礼、久保ユリカ、水瀬いのり # audio artist
-        url: /music/song.m4a # audio url
+        url: /music/song.mp3 # audio url
         cover: http://p1.music.126.net/0TeI-rk691G19CccPtH0Mw==/109951168683227641.jpg # audio cover url
         # lrc: # audio cover lrc
 #      - name: # audio name
