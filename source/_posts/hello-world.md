@@ -1,9 +1,9 @@
 ---
 title: Hello World
 tags: 
-- Small Talk
+  - Small Talk
 categories:
-- Ideas
+  - Ideas
 ---
 # **Welcome to My CS Blog! 🚀**  
 
