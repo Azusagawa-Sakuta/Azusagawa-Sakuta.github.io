@@ -1,38 +1,27 @@
 ---
 title: Hello World
+tags: 
+- Small Talk
+categories:
+- Ideas
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+# **Welcome to My CS Blog! 🚀**  
 
-## Quick Start
+## **About This Blog**  
+This blog is dedicated to **Computer Science** topics, including **algorithms, data structures, AI, software development, and system design**. Whether you're a beginner or an experienced developer, you'll find useful insights, tutorials, and discussions here.  
 
-### Create a new post
+## **What You'll Find Here**  
+- 🔹 **Algorithms & Data Structures** – In-depth explanations, optimizations, and coding challenges.  
+- 🔹 **AI & Machine Learning** – Concepts, projects, and research discussions.  
+- 🔹 **Software Development** – Best practices, debugging tips, and real-world applications.  
+- 🔹 **System Design & Networking** – Scalability, performance optimization, and distributed systems.  
+- 🔹 **CS Career & Learning** – Resources, roadmaps, and interview prep guides.  
+- 🔹 **Some Small Talks on School Life** - Resonate the school life of your own.
 
-``` bash
-$ hexo new "My New Post"
-```
+## **Why This Blog?**  
+As a CS enthusiast, I believe in **learning by sharing**. This blog is a space where I document what I learn, experiment with new technologies, and connect with like-minded individuals.  
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+## **Stay Connected**  
+Follow the blog for regular updates, and feel free to **leave comments, ask questions, or suggest topics**. Let’s explore the world of CS together!  
 
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+**Happy coding!** 😃💻  
