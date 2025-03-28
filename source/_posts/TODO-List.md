@@ -9,28 +9,18 @@ categories:
 
 ## Here is a list of todos with deadlines
 
-### Mar. 27th
-
-- ALLDAY Essay reading and comprehension
-
 ### Mar. 28th
 
-- 24:00 EE Courses 3.5
+- 24:00 EE Courses 1.5
 - 24:00 Analysis Courses 2
 - 24:00 Physics Courses 3
-- 24:00 Analysis Homework W.6
+- 24:00 Analysis Homework W.6-7
 - 24:00 Physics Homework W.6
-- 24:00 EE Homework W.6-7
-- 24:00 Data Annotation
-
-### Mar. 30th
-
-- 18:30 ACM B Group Homework 2
+- 24:00 EE Homework W.7
 
 ### Apr. 6th
 
 - 18:30 ACM Courses Assignment (List)
-- 18:30 ACM Courses Test Refactoring
 
 ### Passages and Books
 
