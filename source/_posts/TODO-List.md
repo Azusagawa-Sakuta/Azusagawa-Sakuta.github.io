@@ -9,41 +9,32 @@ categories:
 
 ## Here is a list of todos with deadlines
 
-### Mar. 28th
-
-- 24:00 EE Courses 1.5
-- 24:00 Analysis Courses 2
-- 24:00 Physics Courses 3
-- 24:00 Analysis Homework W.6-7
-- 24:00 Physics Homework W.6
-- 24:00 EE Homework W.7
-
-### Apr. 6th
-
-- 18:30 ACM Courses Assignment (List)
-
 ### Passages and Books
 
-- CS:APP
-- Cpp Primer (5th edition)
-- Google Code-style Manual
+[x] CS:APP
+[x] CS61A
+[] Cpp Primer (5th edition)
+[] Google Code-style Manual
+[] CS61B
+[] Algorithm (clrs or sth else)
+[] LeetCode
 
 ### Courses
 
-- MIT 18.03 Differential Equation
-- CS61A
-- CS:APP (CMU 15-213)
-- Database (CMU 15-445)
-- AP1400-2: Advanced Programming
+[x] MIT 18.03 Differential Equation
+[x] CS61A
+[x] CS:APP (CMU 15-213)
+[] Database (CMU 15-445)
+[] AP1400-2: Advanced Programming
 
 ### Tools
 
-- CMake
-- GNU Make
-- ASM
-- Docker
-- qBittorrent
+[] CMake
+[x] GNU Make
+[] ASM
+[x] Docker
+[] qBittorrent
 
 ## Postface
 
-This todo list may not be updated in time.
+This todo list may not updated in time.
