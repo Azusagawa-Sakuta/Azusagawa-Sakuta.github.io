@@ -6,13 +6,14 @@ tags:
   - C
 categories:
   - Codes
+  - Courses
 ---
 
 # CSAPP Labs 
 
-This is a train of thought when resolving CS:APP3e [labs][https://csapp.cs.cmu.edu/3e/labs.html].
+This is a train of thought when resolving CS:APP3e [labs](https://csapp.cs.cmu.edu/3e/labs.html).
 
-All codes are available at [GitHub][https://github.com/Azusagawa-Sakuta/CSAPP]
+All codes are available at [GitHub](https://github.com/Azusagawa-Sakuta/CSAPP)
 
 Progress:
 - [x] Data Lab
